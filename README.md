@@ -22,7 +22,7 @@ I started learning by myself and have accomplished some great success. Over time
 
 
 ## 🛠 Skills You Need To follow along? 
-Basic Understading Of Python.
+Basic Understading Of Python, Selenium library, and Request library
 
 
 ## Lessons I Learned The Hard Way 
