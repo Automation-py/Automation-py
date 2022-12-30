@@ -27,5 +27,5 @@ Basic Understading Of Python.
 
 ## Lessons I Learned The Hard Way 
 
-Youtube Videos Are Not Where You Should Start For Automation Nor A Coding Camp...Automation Seems Hard But Its Actually Easy Ones You Get A Understading Of How It Works...
+Youtube Videos Are Not Where You Should Start For Automation Nor A Coding Camp...Automation Seems Hard But Its Actually Easy Once You Get A Understading Of How It Works...
 Dont Trust Anyone Offering Help %100 Of the Programs Ive used Contained A Trojan or a Rat...No One Is Your Friend.
