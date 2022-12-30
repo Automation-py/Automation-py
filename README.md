@@ -29,3 +29,7 @@ Basic Understading Of Python.
 
 Youtube Videos Are Not Where You Should Start For Automation Nor A Coding Camp...Automation Seems Hard But Its Actually Easy Once You Get A Understading Of How It Works...
 Dont Trust Anyone Offering Help %100 Of the Programs Ive used Contained A Trojan or a Rat...No One Is Your Friend.
+
+# Start Here
+
+- Lesson 1 [Mega.com Account Creator]([url](https://github.com/Automation-py/Lesson-1-Mega.com-account-creator))
