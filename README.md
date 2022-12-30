@@ -12,7 +12,7 @@ I started coding about three years ago when COVID-19 occurred, and I have learne
 # Who is This Page For?
 
 I made this GitHub page to share the knowledge I've acquired over the past three years in automation with everyone for free, as others have done so with YouTube videos that did not get them far.
-I started learning by myself and have accomplished some great success. Over time, I've automated various websites and apps such as Instagram, Tiktok, Snapchat, Discord and more. Needless to say it wasn't easy. There was no guide out there nor any platform really explained and helped me understand how to automate anything I wanted, so I spent years learning myself—and now I'm proud to say that I have the skill to automate anything I want.
+I started learning by myself and have accomplished some great success. Over time, I've automated various websites and apps such as Instagram, Tiktok, Snapchat, Discord and more. Needless to say it wasn't easy. There was no guide out there nor any platform really explained and helped me understand how to automate anything I wanted, so I spent years learning myself—and now I'm proud to say that I have the skills to automate anything I want.
 ## What Will You Benefit From This?
 
 - A Full-Giude on how to start in Automation and Account Generation.
