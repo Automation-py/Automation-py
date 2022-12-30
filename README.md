@@ -2,7 +2,7 @@
 # Hi, I'm Mumin D Flood 👋
 
 
-![Logo](https://discord.com/channels/@me/998389238276038688/1058274500627660820)
+![Logo]([https://discord.com/channels/@me/998389238276038688/1058274500627660820](https://ibb.co/X2k0p9P))
 
 
 ## 🚀 About Me
