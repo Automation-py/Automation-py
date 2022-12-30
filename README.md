@@ -32,4 +32,4 @@ Dont Trust Anyone Offering Help %100 Of the Programs Ive used Contained A Trojan
 
 # Start Here
 
-- [Lesson 1 Mega.com Account Creator](https://github.com/Automation-py/Lesson-1-Mega.com-account-creator)
+- [Lesson 1 Mega.nz Account Creator](https://github.com/Automation-py/Lesson-1-Mega.com-account-creator)
