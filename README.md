@@ -17,7 +17,7 @@ I started learning by myself and have accomplished some great success. Over time
 
 - A Full-Giude on how to start in Automation and Account Generation.
 - Tips and Tricks and best software to use.
-- Automation/Coding secrest ive spent years to learn (That no body shares).
+- Automation/Coding secrets ive spent years to learn (That no body shares).
 - Multiple open Sources applection ive coded for general automation/account generation.
 
 
